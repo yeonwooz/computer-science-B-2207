@@ -19,7 +19,7 @@
 데이터 정보를 가지고 있다.
 유저액션이 발생하면 Controller를 통해 Model의 데이터가 갱신된다.
 
-![MVC image](https://rangleio.ghost.io/content/images/size/w1000/2021/04/mvc_blog_diagrams_MVC_pattern1.png)
+[<img src="https://rangleio.ghost.io/content/images/size/w1000/2021/04/mvc_blog_diagrams_MVC_pattern1.png" width="400"/>](https://rangleio.ghost.io/content/images/size/w1000/2021/04/mvc_blog_diagrams_MVC_pattern1.png)<br/>
 ([출처](https://rangle.io/blog/how-react-and-redux-brought-back-mvc-and-everyone-loved-it/))
 
 #### Q.React 는 MVC패턴으로 설계되었을까?
